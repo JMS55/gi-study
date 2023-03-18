@@ -57,3 +57,20 @@
 
 ## [Unity Probe Lighting](http://advances.realtimerendering.com/s2022/SIGGRAPH2022-Advances-Enemies-Ciardi%20et%20al.pdf)
 * TODO
+
+## [Voxel Cone Tracing](https://research.nvidia.com/publication/2011-09_interactive-indirect-illumination-using-voxel-cone-tracing)
+* TODO
+
+## [Light Propagation Volumes](https://www.advances.realtimerendering.com/s2009/Light_Propagation_Volumes.pdf)
+* TODO
+
+## Screen-space GI (SSGI)
+* Diffuse: https://github.com/Patapom/GodComplex/blob/master/Tests/TestHBIL/2018%20Mayaux%20-%20Horizon-Based%20Indirect%20Lighting%20(HBIL).pdf
+* Occlusion:
+    * https://www.activision.com/cdn/research/Practical_Real_Time_Strategies_for_Accurate_Indirect_Occlusion_NEW%20VERSION_COLOR.pdf
+    * https://drive.google.com/file/d/1SyagcEVplIm2KkRD3WQYSO9O0Iyi1hfy/edit
+* Specular:
+    * https://www.ea.com/frostbite/news/stochastic-screen-space-reflections
+    * https://media.githubusercontent.com/media/GPUOpen-Effects/FidelityFX-SSSR/master/docs/FFX_SSSR_Technology.pdf
+    * https://gpuopen.com/learn/hybrid-reflections/
+* TODO
