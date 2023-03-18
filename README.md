@@ -58,7 +58,9 @@
 ## [Unity Probe Lighting](http://advances.realtimerendering.com/s2022/SIGGRAPH2022-Advances-Enemies-Ciardi%20et%20al.pdf)
 * TODO
 
-## [Voxel Cone Tracing](https://research.nvidia.com/publication/2011-09_interactive-indirect-illumination-using-voxel-cone-tracing)
+## Voxel Cone Tracing
+* https://research.nvidia.com/publication/2011-09_interactive-indirect-illumination-using-voxel-cone-tracing
+* https://www.youtube.com/watch?v=EJTc_t3G-js
 * TODO
 
 ## [Light Propagation Volumes](https://www.advances.realtimerendering.com/s2009/Light_Propagation_Volumes.pdf)
