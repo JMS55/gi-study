@@ -71,6 +71,7 @@
 * Occlusion:
     * https://www.activision.com/cdn/research/Practical_Real_Time_Strategies_for_Accurate_Indirect_Occlusion_NEW%20VERSION_COLOR.pdf
     * https://drive.google.com/file/d/1SyagcEVplIm2KkRD3WQYSO9O0Iyi1hfy/edit
+    * https://arxiv.org/pdf/2301.11376.pdf
 * Specular:
     * https://www.ea.com/frostbite/news/stochastic-screen-space-reflections
     * https://media.githubusercontent.com/media/GPUOpen-Effects/FidelityFX-SSSR/master/docs/FFX_SSSR_Technology.pdf
